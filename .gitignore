@@ -10,3 +10,7 @@
 
 # .tfplan files
 *.tfplan
+
+# keypair files
+*.pem
+*.ppk
