@@ -17,3 +17,6 @@
 
 # all text files
 *.txt
+
+# all Azure DevOps related examples
+/azureDevOps/*
